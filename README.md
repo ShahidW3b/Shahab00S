@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me
-I am <strong> Shahabuddin Shahid </strong> a Computer Science student with a strong interest in Artificial Intelligence, Cybersecurity, and full-stack web development.  
+I am <strong>Shahabuddin Shahid</strong>, a Computer Science student with a strong interest in Artificial Intelligence, Cybersecurity, and full-stack web development.  
 I enjoy building practical systems, exploring algorithms, and working on research-oriented projects that combine AI and security.
 
 Currently focused on:
@@ -12,7 +12,14 @@ Currently focused on:
 - Artificial Intelligence & Machine Learning
 - Cybersecurity fundamentals & secure system design
 - Databases & backend systems
-- AI-based Researches
+- AI-based research
+
+---
+
+### 📄 Publications
+- 🧠 **Vulnerabilities of AI in Cybersecurity**  
+  *International Journal of Scientific Engineering and Research (IJSER), 2025*  
+  🔗 https://www.ijser.in/abstract.php?paperid=SE25604130052  
 
 ---
 
@@ -32,9 +39,9 @@ Currently focused on:
 ---
 
 ### 📫 Connect With Me
-- GitHub: https://github.com/ShahidW3b
-- LinkedIn: https://www.linkedin.com/in/shahabshahid00/
-- Email: shahid@shahidw3b.com
+- GitHub: https://github.com/ShahidW3b  
+- LinkedIn: https://www.linkedin.com/in/shahabshahid00/  
+- Email: shahid@shahidw3b.com  
 
 ---
 
