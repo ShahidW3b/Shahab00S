@@ -22,7 +22,12 @@ Currently focused on:
   🔗 https://www.ijser.in/abstract.php?paperid=SE25604130052  
 
 ---
+## 📄 CV
 
+* English CV PDF: [View Here](./Shahab_Shahid_CV_English.pdf)
+* German CV PDF: [View Here](./Shahab_Shahid_CV_Deutsch.pdf)
+
+---
 ### 🛠 Tech Stack
 - Languages: C++, Python, JavaScript  
 - Web: HTML, CSS, Node.js (learning backend)  
